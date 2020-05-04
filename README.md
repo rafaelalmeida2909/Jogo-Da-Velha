@@ -11,4 +11,5 @@ onde um jogador é escolhido para iniciar a partida.
 As posições no jogo foram definidas da seguinte forma:
 <br>
 ![Tabuleiro](https://user-images.githubusercontent.com/57334553/80930403-c0a07a80-8d89-11ea-8bfd-e3db6fc033af.png)
+<br>
 Então, quando a posição que deseja marcar for requerida, basta digitar o nome correspondente.
