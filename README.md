@@ -1,5 +1,5 @@
 # Jogo da Velha Player vs Player - Python3
-Jogo da velha simples. Ao digitar o nome dos jogadores, um sorteio é feito a partir do módulo ramdom,
+Jogo da velha simples. Ao digitar o nome dos jogadores, um sorteio é feito a partir do módulo random,
 onde um jogador é escolhido para iniciar a partida.
 ## Requisitos:
 * Python3
